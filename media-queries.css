@@ -1,0 +1,27 @@
+@media screen and (max-width:991px) {
+    .hamberger {
+        display: block;
+        margin-right: 100px;
+    }
+
+    .m,
+    .b1 {
+        display: none;
+    }
+
+    .seventh {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+    }
+
+    .MM1,
+    .MM2,
+    .MM3,
+    .MM4 {
+        width: 600px;
+        margin: auto;
+
+    }
+
+}
